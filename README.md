@@ -19,8 +19,8 @@ virus
         HTML, PHP et MySQL
 
 ## Projets 
-### 1. [Projet Gestion de la formation](https://github.com/chebbi-eya1/Calculator)
+### 1. [Projet Additionner les doigts levés](https://github.com/chebbi-eya1/additionner)
 **Description :** Hand Tracking Calculator | Python OpenCV, mediaPipe : Elle permet de calculer les doigts élevés en additionnant les doigts levés des deux mains.
 
-### 2. [Projet Gestion de la formation](https://github.com/chebbi-eya1/piano)
+### 2. [Projet Piano](https://github.com/chebbi-eya1/piano)
 **Description :** Hand Tracking Calculator | Python OpenCV, mediaPipe : Elle permet de jouer un son de piano pour chaque doigt. Lorsque vous levez un doigt, un son de piano se déclenche, comme si vous jouiez du piano
