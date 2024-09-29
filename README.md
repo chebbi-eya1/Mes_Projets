@@ -18,7 +18,7 @@ virus
 **Description :** Conception et développement d'une application de gestion de la formation en utilisant  CSS, Bootstrap,   
         HTML, PHP et MySQL
 
-## Projets 
+## Projets Hand Tracking
 ### 1. [Projet Additionner les doigts levés](https://github.com/chebbi-eya1/additionner)
 **Description :** Hand Tracking Calculator | Python OpenCV, mediaPipe : Elle permet de calculer les doigts élevés en additionnant les doigts levés des deux mains.
 
